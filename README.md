@@ -1,4 +1,4 @@
-# Gender and Age Estimation from Facial Images
+# Insightful Oracle : Gender Age Prediction
 
 This project is designed to estimate the gender and age of individuals from facial images using a deep learning model. The model is trained on the UTKFace dataset, which is a large-scale face dataset with age, gender, and ethnicity annotations. The dataset consists of over 20,000 face images covering a wide range of ages, genders, and facial variations.
 
